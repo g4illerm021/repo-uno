@@ -1,3 +1,3 @@
-saludo= " hola pendejo"
+saludo= " hola cerote"
 
 print(saludo)
